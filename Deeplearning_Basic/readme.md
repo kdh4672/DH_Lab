@@ -1,1 +1,2 @@
 -Data Normalization: [[Image Normalization](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)] , [[정규화 해야하는 이유](https://light-tree.tistory.com/132)]
+- Sigmoid: [[Sigmoid](https://icim.nims.re.kr/post/easyMath/64)]
