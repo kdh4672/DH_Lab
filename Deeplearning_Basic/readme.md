@@ -1,2 +1,3 @@
 - Data Normalization: [[Image Normalization](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)] , [[정규화 해야하는 이유](https://light-tree.tistory.com/132)]
 - Sigmoid: [[Sigmoid](https://icim.nims.re.kr/post/easyMath/64)]
+- GAN : [[GAN 기본개념 및 Tutorial](https://dreamgonfly.github.io/2018/03/17/gan-explained.html)]
