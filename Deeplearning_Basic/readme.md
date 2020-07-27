@@ -1,4 +1,4 @@
 - Data Normalization: [[Image Normalization](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)] , [[정규화 해야하는 이유](https://light-tree.tistory.com/132)]
 - Sigmoid: [[Sigmoid](https://icim.nims.re.kr/post/easyMath/64)]
 - GAN : [[GAN 기본개념 및 Tutorial](https://dreamgonfly.github.io/2018/03/17/gan-explained.html)], GAN Review: [[GAN Review](https://www.youtube.com/watch?v=eyxmSmjmNS0)]
-- Face Recognition : [[Face Recognition 성능 비교](https://seongkyun.github.io/study/2019/03/25/face_detection/)]
+- Face Recognition : [[Face Detection model 성능 비교](https://seongkyun.github.io/study/2019/03/25/face_detection/)] , [[Full-Pose Face 3D alignment](https://pythonawesome.com/face-alignment-in-full-pose-range-a-3d-total-solution/)]
