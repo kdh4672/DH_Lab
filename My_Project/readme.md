@@ -1,1 +1,1 @@
-https://studio.youtube.com/video/vnxWU22hKME/edit/basic
+https://youtu.be/vnxWU22hKME
