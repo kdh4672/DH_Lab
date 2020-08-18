@@ -1,6 +1,6 @@
 - Data Normalization: [[Image Normalization](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)] , [[정규화 해야하는 이유](https://light-tree.tistory.com/132)]
 - Sigmoid: [[Sigmoid](https://icim.nims.re.kr/post/easyMath/64)]
 - GAN : [[GAN 기본개념 및 Tutorial](https://dreamgonfly.github.io/2018/03/17/gan-explained.html)] , [[GAN Review](https://www.youtube.com/watch?v=eyxmSmjmNS0)]
-- Face Recognition :
+- Face Recognition :[[Face Alignment함수작성법(with Dlib)](https://www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/)], [[특정점(얼굴 일부) 학습시키는 법](https://www.pyimagesearch.com/2019/12/16/training-a-custom-dlib-shape-predictor/)]
 - Face Detection :  [[Face Detection model 성능 비교](https://seongkyun.github.io/study/2019/03/25/face_detection/)] , [[Full-Pose Face 3D alignment](https://pythonawesome.com/face-alignment-in-full-pose-range-a-3d-total-solution/)], [[Hog(Histogram of Oriented Gradients)](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-4-63ed781eee3c)] , [[dlib_cnn 사용법](https://www.arunponnusamy.com/cnn-face-detector-dlib.html)] , [[Dlib cuda 가속방법](https://hongjong.tistory.com/15)]
 - Tensorboard : [[Pytorch-Tensorboard  Tutorial](https://tutorials.pytorch.kr/intermediate/tensorboard_tutorial.html)]
