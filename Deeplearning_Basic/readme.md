@@ -5,4 +5,5 @@
 - Face Detection :  [[Face Detection model 성능 비교](https://seongkyun.github.io/study/2019/03/25/face_detection/)] , [[Full-Pose Face 3D alignment](https://pythonawesome.com/face-alignment-in-full-pose-range-a-3d-total-solution/)], [[Hog(Histogram of Oriented Gradients)](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-4-63ed781eee3c)] , [[dlib_cnn 사용법](https://www.arunponnusamy.com/cnn-face-detector-dlib.html)] , [[Dlib cuda 가속방법](https://hongjong.tistory.com/15)]
 - Tensorboard : [[Pytorch-Tensorboard  Tutorial](https://tutorials.pytorch.kr/intermediate/tensorboard_tutorial.html)]
 - Focal Loss : [[Focal Loss 설명 블로그](https://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221087066947)]
-- 3D Face Reconstruction : [[GANFIT_3D_FACE_CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf)]
+- 3D Face Reconstruction : [[GANFIT_3D_FACE_CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf)] , [[3D Face Reconstruction With Geometry
+Details From a Single Image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8376005)]
