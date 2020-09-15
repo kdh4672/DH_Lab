@@ -7,7 +7,9 @@
 - Focal Loss : [[Focal Loss 설명 블로그](https://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221087066947)]
 - 3D Face Reconstruction : [[GANFIT_3D_FACE_CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf)] , [[3D Face Reconstruction With Geometry
 Details From a Single Image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8376005)]
-- Face Pose Reconstruction :[[Pose-Guided_Photorealistic_Face_CVPR_2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Pose-Guided_Photorealistic_Face_CVPR_2018_paper.pdf)(CAPG-GAN)], 
+- Face Pose Reconstruction :
+
+[[Pose-Guided_Photorealistic_Face_CVPR_2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Pose-Guided_Photorealistic_Face_CVPR_2018_paper.pdf)(CAPG-GAN)], 
 
 [[Load Balanced GANs for Multi-view Face Image Synthesis](https://arxiv.org/pdf/1802.07447.pdf)(LB-GAN)],
 
