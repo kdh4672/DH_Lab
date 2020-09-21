@@ -9,10 +9,10 @@
 Details From a Single Image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8376005)]
 - Face Pose Reconstruction :
 
-[[Pose-Guided_Photorealistic_Face_CVPR_2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Pose-Guided_Photorealistic_Face_CVPR_2018_paper.pdf)(CAPG-GAN)], 
+    [[Pose-Guided_Photorealistic_Face_CVPR_2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Pose-Guided_Photorealistic_Face_CVPR_2018_paper.pdf)(CAPG-GAN)], 
 
-[[Load Balanced GANs for Multi-view Face Image Synthesis](https://arxiv.org/pdf/1802.07447.pdf)(LB-GAN)],
+    [[Load Balanced GANs for Multi-view Face Image Synthesis](https://arxiv.org/pdf/1802.07447.pdf)(LB-GAN)],
 
-[[Unsupervised Depth Estimation,3D Face Rotation and Replacement](https://arxiv.org/pdf/1803.09202.pdf)]-[[Code](https://github.com/joelmoniz/DepthNets/)]
+    [[Unsupervised Depth Estimation,3D Face Rotation and Replacement](https://arxiv.org/pdf/1803.09202.pdf)]-[[Code](https://github.com/joelmoniz/DepthNets/)]
 - Face Data Augmentation: [[A Survey on Face Data Augmentation](https://arxiv.org/pdf/1904.11685.pdf)]
 - nsml 사용법 [[nsml](https://www.notion.so/NSML-353ecfa1295f439b8b4e91818a7b453e)]
