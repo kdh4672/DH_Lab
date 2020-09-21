@@ -15,3 +15,4 @@ Details From a Single Image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arn
 
 [[Unsupervised Depth Estimation,3D Face Rotation and Replacement](https://arxiv.org/pdf/1803.09202.pdf)]-[[Code](https://github.com/joelmoniz/DepthNets/)]
 - Face Data Augmentation: [[A Survey on Face Data Augmentation](https://arxiv.org/pdf/1904.11685.pdf)]
+- nsml 사용법 [[nsml](https://www.notion.so/NSML-353ecfa1295f439b8b4e91818a7b453e)]
