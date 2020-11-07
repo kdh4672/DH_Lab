@@ -19,3 +19,4 @@ Details From a Single Image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arn
 - nsml 사용법: [[nsml](https://www.notion.so/NSML-353ecfa1295f439b8b4e91818a7b453e)]
 - FAR (Face Acceptance Rate), FRR (Face Rejection Rate) 설명: [[FAR,FRR](https://www.recogtech.com/en/knowledge-base/security-level-versus-user-convenience)]
 - Style GAN : [[stylegan 블로그 설명](https://jayhey.github.io/deep%20learning/2019/01/14/style_based_GAN_1/)], [[stylegan 블로그 설명2](https://sensibilityit.tistory.com/510)]
+- PG-GAN (ProGAN) : [[pggan](https://github.com/jeromerony/Progressive_Growing_of_GANs-PyTorch)]
