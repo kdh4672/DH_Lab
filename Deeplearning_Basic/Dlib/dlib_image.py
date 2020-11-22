@@ -3,15 +3,17 @@ import dlib
 from skimage import io
 import cv2
 import numpy as np
+import os
 predictor = dlib.shape_predictor('./shape_predictor_68_face_landmarks.dat')
 # Take the image file name from the command line
 count = 1
 face_detector = dlib.get_frontal_face_detector()
 ALL = list(range(0, 68))
 index = ALL
-while True:
-
-    file_name = '/home/daehyeon/hdd/High_Resolution/S001/L1/E01/C{}.jpg'.format(count)
+path = '/home/daehyeon/hdd/Test_Crop/401'
+file_list = os.listdir(path)
+for file in file_list:
+    file_name = path + '/' +file
     print(file_name)
     # Create a HOG face detector using the built-in dlib class
 
@@ -28,7 +30,9 @@ while True:
     # Run the HOG face detector on the image data.
     # The result will be the bounding boxes of the faces in our image.
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+    crop = image
     detected_faces = face_detector(image, 1)
+    print("얼굴 갯수:", "{}.개".format(len(detected_faces)))
     for face in detected_faces:
 
         shape = predictor(image, face)  # 얼굴에서 68개 점 찾기
@@ -53,10 +57,11 @@ while True:
         # of the top, left, right and bottom edges
         print("- Face #{} found at Left: {} Top: {} Right: {} Bottom: {}".format(i, face_rect.left(), face_rect.top(),
                                                                                  face_rect.right(), face_rect.bottom()))
-        cv2.rectangle(image, (face_rect.left(), face_rect.top()),(face_rect.right(), face_rect.bottom()),
-                     (0, 0, 255), 3 )
-
-    cv2.imshow('result', image)
+        # cv2.rectangle(image, (face_rect.left(), face_rect.top()),(face_rect.right(), face_rect.bottom()),
+        #              (0, 0, 255), 3 )
+    crop = image[:,]
+    # cv2.imshow('result', image)
+    cv2.imwrite(path +'/'+ '{}.jpg'.format(count),crop)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
