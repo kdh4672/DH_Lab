@@ -15,6 +15,9 @@ Details From a Single Image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arn
     [[Load Balanced GANs for Multi-view Face Image Synthesis](https://arxiv.org/pdf/1802.07447.pdf)(LB-GAN)],
 
     [[Unsupervised Depth Estimation,3D Face Rotation and Replacement](https://arxiv.org/pdf/1803.09202.pdf)]-[[Code](https://github.com/joelmoniz/DepthNets/)]
+
+[[side to front face](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Rotate-and-Render_Unsupervised_Photorealistic_Face_Rotation_From_Single-View_Images_CVPR_2020_paper.pdf)]
+
 - Face Data Augmentation: [[A Survey on Face Data Augmentation](https://arxiv.org/pdf/1904.11685.pdf)]
 - nsml 사용법: [[nsml](https://www.notion.so/NSML-353ecfa1295f439b8b4e91818a7b453e)]
 - FAR (Face Acceptance Rate), FRR (Face Rejection Rate) 설명: [[FAR,FRR](https://www.recogtech.com/en/knowledge-base/security-level-versus-user-convenience)]
