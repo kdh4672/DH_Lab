@@ -12,6 +12,8 @@ If one of the dependencies can't be found by CMake, use the "-DCMAKE_PREFIX_PATH
 cmake -DCMAKE_PREFIX_PATH="/path/to/glew/glew-2.1.0/build/" ..
 ```
 
+
+
 - 구글 드라이브 대용량 데이터 wget으로 다운받는법
 
 wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=파일ID' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=파일ID" -O 파일명 && rm -rf /tmp/cookies.txt
