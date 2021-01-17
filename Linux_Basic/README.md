@@ -18,6 +18,7 @@ cmake -DCMAKE_PREFIX_PATH="/path/to/glew/glew-2.1.0/build/" ..
 
 wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1heFZLbm1GEMOEjvBB5Z3nvVREwYSPuGe' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1heFZLbm1GEMOEjvBB5Z3nvVREwYSPuGe" -O snapshot_18.pth.tar && rm -rf /tmp/cookies.txt
 
+**주의** 위를 바로 복사하는 게 아니라, 직접 타이핑하거나, Readme 파일 수정 탭(fork한 뒤)에가서 복사해야 실행됨.
 
 *파일ID는 첨부한 사진의 붉은 부분(2번 있으므로 둘다 입력), 파일명은 이전 디렉토리 없이 파일명만*
 
