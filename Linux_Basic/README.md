@@ -20,7 +20,8 @@ wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download
 
 출처: https://redstarhong.tistory.com/105 [홍석쓰 블로그]
 
-예시) wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1heFZLbm1GEMOEjvBB5Z3nvVREwYSPuGe' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1heFZLbm1GEMOEjvBB5Z3nvVREwYSPuGe" -O snapshot_18.pth.tar && rm -rf /tmp/cookies.txt
+예시:
+wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1heFZLbm1GEMOEjvBB5Z3nvVREwYSPuGe' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1heFZLbm1GEMOEjvBB5Z3nvVREwYSPuGe" -O snapshot_18.pth.tar && rm -rf /tmp/cookies.txt
 
 
 
