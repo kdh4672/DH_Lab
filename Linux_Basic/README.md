@@ -32,6 +32,3 @@ wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download
 
 ![google_big_data](https://user-images.githubusercontent.com/54311546/104596424-4e718b00-56b7-11eb-8a4d-e3108647b320.png)
 
-
-
-
