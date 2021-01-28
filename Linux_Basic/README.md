@@ -32,3 +32,6 @@ wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download
 
 ![google_big_data](https://user-images.githubusercontent.com/54311546/104596424-4e718b00-56b7-11eb-8a4d-e3108647b320.png)
 
+- 쉘 스크립트 bash 실행 에러 : syntax error : unexpected end of file
+문법적으로 오류가 없는데, 이 오류가 뜬다면 Windows OS에서 작성한 스크립트 파일을 Unix(Linux/Mac OS)에서 실행하는 데 문제가 발생한 것이다.
+따라서, dos2unix ./run.sh 명령어를 실행시켜주면 된다.
