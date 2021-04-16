@@ -24,4 +24,4 @@ Details From a Single Image](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arn
 - Style GAN : [[stylegan 블로그 설명](https://jayhey.github.io/deep%20learning/2019/01/14/style_based_GAN_1/)], [[stylegan 블로그 설명2](https://sensibilityit.tistory.com/510)]
 - PG-GAN (ProGAN) : [[pggan](https://github.com/jeromerony/Progressive_Growing_of_GANs-PyTorch)]
 
-- Visual Transformer : [[NLP 쪽 Transformer 설명 블로그](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)] ,[[NLP 쪽 Transformer 설명 유튜브-허민석](https://www.youtube.com/watch?v=mxGCEWOxfe8)] 
+- Visual Transformer : [[NLP 쪽 Transformer 설명 블로그](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)] ,[[NLP 쪽 Transformer 설명 유튜브-허민석](https://www.youtube.com/watch?v=mxGCEWOxfe8)], [[Vision Transformer - Pytorch example 블로그](https://yhkim4504.tistory.com/5)]
