@@ -112,7 +112,7 @@ docker run -p 8000:80 httpd
 ```
 docker run --name ws3 -p 8000:80 httpd
 ```
-![실행](https://media.oss.navercorp.com/user/26454/files/2c81b300-065f-11ec-93c9-60b62ab9eeca)
+![실행](https://user-images.githubusercontent.com/54311546/130898213-9876fa93-ba12-4571-b883-4dfa28871eb7.png)
 
 
 - container 속에 들어가서 코드 수정 (ex : index.html)
